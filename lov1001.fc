@@ -2,4 +2,4 @@
 % Dies ist LOV 1001. In diesem LOV werden Vorschläge zur netzübergreifenden Funktionalität vom lABEr-Chat eingereicht. %
 ---
 !! Vorschläge
-%(.red) * Kein Vorschläge bisher eingereicht! * %
+%(#ff0000) * Kein Vorschläge bisher eingereicht! * %
