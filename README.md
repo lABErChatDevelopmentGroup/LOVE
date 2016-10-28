@@ -1,5 +1,5 @@
-# LOV
-LOV ist ein fantastisches System um Verbesserungsideen einzureichen und zu bearbeiten. Dazu werden Ideen in Kategorien eingeiteilt und anschließend bearbeitet. Um dies zu gewährleisten bekommt jeder Vorschlag eine eindeutige Nummer zugeordnet.
+# LOVE (Laberchat Optimierungs VorschlägE)
+LOVE ist ein fantastisches System um Verbesserungsideen einzureichen und zu bearbeiten. Dazu werden Ideen in Kategorien eingeiteilt und anschließend bearbeitet. Um dies zu gewährleisten bekommt jeder Vorschlag eine eindeutige Nummer zugeordnet.
 
 ---
 
