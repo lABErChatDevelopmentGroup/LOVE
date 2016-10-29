@@ -16,6 +16,8 @@ Nummer | Name | Beschreibung
 
 ## Alle bisher eingereichten Vorschläge
 ```
-Nr. | Beschreibung | Status
-----|--------------|--------
+Nr. | Beschreibung                   | Status
+----|--------------------------------|--------
 ```
+
+## Eigenen Vorschlag einreichen
