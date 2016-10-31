@@ -29,3 +29,26 @@ Abgelehnt | ![Abgelehnt](https://img.shields.io/badge/status-denied-red.svg) | `
 Angenommen | ![Angenommen](https://img.shields.io/badge/status-accepted-green.svg) | `![Angenommen](https://img.shields.io/badge/status-accepted-green.svg)`
 Implementiert | ![Implementiert](https://img.shields.io/badge/status-implemented-blue.svg) | `![Implementiert](https://img.shields.io/badge/status-implemented-blue.svg)`
 Veraltet | ![Veraltet](https://img.shields.io/badge/status-deprecated-lightgray.svg) | `![Veraltet](https://img.shields.io/badge/status-deprecated-lightgray.svg)`
+
+## Aufbau eines LOVEs
+```md
+# LOVE xxxx - Name
+Statusbadge
+
+Zusammenfassung des Inhalts, sowie Implementierungsansätze (Link zur Branch)
+
+## 1. Genereller Zweck
+Warum ist dies Notwendig und wie war es bisher.
+## 2. Vorgeschlagene Änderungen / Aufbau / Inhalt
+Wie soll diese Änderung implementiert werden?
+
+Erweiterbarkeit
+
+Wie kann dies am besten erweitert werden?
+
+---
+
+Dieses LOVE ist entwickelt von DeinName.
+Es wurde (noch) nicht bestätigt.
+Der genaue Status wird oben angegeben.
+```
