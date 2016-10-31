@@ -20,4 +20,13 @@ Nr. | Beschreibung                   | Status
 ----|--------------------------------|--------
 ```
 
-## Eigenen Vorschlag einreichen
+## Auszeichnung
+Der Status wird mit Badges angegeben:
+
+Status | Badge | MD-CODE
+-------|-------|--------
+Wird geprüft | ![Wird geprüft](https://img.shields.io/badge/status-checking-yellow.svg) | `![Wird geprüft](https://img.shields.io/badge/status-checking-yellow.svg)`
+Abgelehnt | ![Abgelehnt](https://img.shields.io/badge/status-denied-red.svg) | `![Abgelehnt](https://img.shields.io/badge/status-denied-red.svg)`
+Angenommen | ![Angenommen](https://img.shields.io/badge/status-accepted-green.svg) | `![Angenommen](https://img.shields.io/badge/status-accepted-green.svg)`
+Implementiert | ![Implementiert](https://img.shields.io/badge/status-implemented-blue.svg) | `![Implementiert](https://img.shields.io/badge/status-implemented-blue.svg)`
+Veraltet | ![Veraltet](https://img.shields.io/badge/status-deprecated-lightgray.svg) | `![Veraltet](https://img.shields.io/badge/status-deprecated-lightgray.svg)`
