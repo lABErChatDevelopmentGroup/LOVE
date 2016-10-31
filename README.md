@@ -15,10 +15,9 @@ Nummer | Name | Beschreibung
 6xxx | Anderes | Vorschläge die nicht in diese Kategorien passen.
 
 ## Alle bisher eingereichten Vorschläge
-```
 Nr. | Beschreibung                   | Status
 ----|--------------------------------|--------
-```
+[1001](/network_1xxx/1001.md) | Entwicklung einer JSON-Api | ![Wird geprüft](https://img.shields.io/badge/status-checking-yellow.svg)
 
 ## Auszeichnung
 Der Status wird mit Badges angegeben:
